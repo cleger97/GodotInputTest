@@ -19,6 +19,13 @@ config/name="New Game Project"
 run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
+[input]
+
+p1_light={
+"deadzone": 0.5,
+"events": [  ]
+}
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"
